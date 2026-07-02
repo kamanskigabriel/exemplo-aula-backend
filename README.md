@@ -1,3 +1,5 @@
+# oque é Branch
+Para criar nomenclaturas 
 # exemplo-aula-backend
 
 ````
@@ -8,5 +10,3 @@ doc - Documentação
 fix - bugfix | fix - corrigir algo de errado no projeto
 
 ````
-# oque é Branch
-Para criar nomenclaturas 
