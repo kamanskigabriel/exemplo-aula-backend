@@ -1,4 +1,14 @@
 import express from "express";
+import router from "./router/atv1";
+import router from "./router/atv2";
+import router from "./router/atv3";
+import router from "./router/atv4";
+import router from "./router/atv5";
+import router from "./router/atv6";
+import router from "./router/atv7";
+import router from "./router/atv8";
+import router from "./router/atv9";
+import router from "./router/atv10";
 
 const app = express();
 
